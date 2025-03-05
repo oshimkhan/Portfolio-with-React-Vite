@@ -8,7 +8,7 @@ const Home = () => {
         <div className="text-white brder-2 border-white w-full lg:w-[100%] p-[18px] text-center lg:px-10">
           <div className="m-4 p-6">
             <h1 className="text-3xl md:text-4xl lg:text-8xl font-bold bg-gradient-to-tr from-blue-500 via-purple-400 to-pink-500 bg-clip-text text-transparent mb-4">
-              Sanjay Pandere
+              OSHIM PATHAN
             </h1>
             <p className="text-[16px] p-[4px] md:text-xl lg:text-xl">
               I’m a passionate web developer with experience in creating dynamic
@@ -18,7 +18,7 @@ const Home = () => {
             </p>
 
             <Link
-              to="https://drive.google.com/file/d/1YQnUbk9gmvkgmCjmqn1Q5xVsbjMwebK9/view?usp=sharing"
+              to="https://drive.google.com/file/d/18i_E9fVkhUVlBcyVEC_CHfD8CH1Xg3Ac/view?usp=drive_link"
               target="blank"
             >
               <button className="mt-6 bg-white text-gray-900 font-semibold lg:font-extrabold lg:text-xl lg:py-3 py-2 px-4 lg:px-8 rounded-md hover:bg-gray-200 transition-colors">

@@ -21,9 +21,9 @@ const About = () => {
                 I am a dedicated student with a strong passion for coding and
                 software development. I am currently studying at{" "}
                 <span className="font-semibold bg-gradient-to-tr from-blue-500 via-purple-400 to-pink-500 bg-clip-text text-transparent">
-                  Pillai College of Engineering, New Panvel{" "}
+                  Vellore Institue Of Technology, Vellore{" "}
                 </span>
-                in my final year. Over the years, I have honed my skills in
+                in my pre-final year. Over the years, I have honed my skills in
                 various programming languages and technologies, allowing me to
                 tackle complex problems and develop efficient solutions.
               </p>

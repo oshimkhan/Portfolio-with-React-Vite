@@ -14,37 +14,37 @@ const Footer = () => {
             alt="Profile"
             className="w-32 h-32 rounded-full object-cover border-4 border-gray-700"
           />
-          <h2 className="text-2xl font-bold">Sanjay Pandere</h2>
+          <h2 className="text-2xl font-bold">OSHIM PATHAN</h2>
         </div>
 
         <div className="text-center md:text-left space-y-4 font-semibold">
           <p>
             Email:{" "}
             <Link
-              to="https://mail.google.com/mail/u/0/?fs=1&to=panderesanjay26@gmail.com&tf=cm"
+              to="https://mail.google.com/mail/u/0/?fs=1&to=work.oshimkhan6@gmail.com&tf=cm"
               target="_blank"
               className="hover:underline"
             >
-              panderesanjay26@gmail.com
+              work.oshimkhan@gmail.com
             </Link>
           </p>
           <p>
             Phone:{" "}
-            <Link onTouchEnd="tel:+917666713672" className="hover:underline">
-              +91-7666713672
+            <Link onTouchEnd="tel:+917317644253" className="hover:underline">
+              +91-7317644253
             </Link>
           </p>
         </div>
 
         <div className="flex space-x-6">
-          <Link to="https://github.com/Psanjay-15" target="_blank">
+          <Link to="https://github.com/oshimkhan" target="_blank">
             <FaGithub
               size={30}
               className="text-gray-white hover:scale-125 transition-transform duration-300"
             />
           </Link>
           <Link
-            to="https://www.linkedin.com/in/sanjay-pandere84/"
+            to="https://www.linkedin.com/in/oshim7786/"
             target="_blank"
           >
             <FaLinkedin
@@ -52,14 +52,14 @@ const Footer = () => {
               className=" text-blue-500 hover:scale-125 transition-transform duration-300"
             />
           </Link>
-          <Link to="https://x.com/sanjaypandere26" target="_blank">
+          <Link to="https://x.com/beginosem98333" target="_blank">
             <FaTwitter
               size={30}
               className="text-blue-400 hover:scale-125 transition-transform duration-300"
             />
           </Link>
           <Link
-            to="https://www.instagram.com/sanjay_pandere26/"
+            to="https://www.instagram.com/oshim.x/"
             target="_blank"
           >
             <FaInstagram
@@ -73,7 +73,7 @@ const Footer = () => {
         <p>
           Made with ❤️ by{"  "}
           <span className="font-semibold bg-gradient-to-tr from-blue-500 via-purple-400 to-pink-500 bg-clip-text text-transparent">
-            Sanjay Pandere
+            Oshim Pathan
           </span>
         </p>
       </div>

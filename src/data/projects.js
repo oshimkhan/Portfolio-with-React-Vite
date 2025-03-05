@@ -1,26 +1,26 @@
 export const projects = [
   {
-    title: "CodePad",
+    title: "Personal Portfolio",
     description:
-      "Pioneered a state-of-the-art real-time code editor for technical interviews with MERN Stack and TypeScript, improving user experience by 35% and increasing interview success rates by 20%. • Enhanced code execution capabilities by integrating Judge0 API, supporting compilation and execution for over 30+ programming languages..",
-    image: "/codepad.png",
-    github: "https://github.com/Hire-Rank/Code-Pad-Client",
-    deployed: "https://code-pad-client.vercel.app/",
+      "Optimized load times by 25% through efficient coding practices and image compression techniques. Streamlined a contact form with real-time validation using JavaScript, enhancing user interactions and reducing submission errors by 40%.",
+    image: "/portfolio.png",
+    github: "https://github.com/oshimkhan/Personal-Portfolio-Website.git",
+    deployed: "https://oshimkhan.github.io/Personal-Portfolio-Website/",
   },
   {
-    title: "TripEzz",
+    title: "Movies Genre Prediction Model with Machine Learning",
     description:
-      "The tour planning website offers a seamless experience for finding and customizing your ideal trip. With features like search by name and country filters, you can easily discover tours that match your interests. Whether seeking adventure or relaxation, our platform helps you effortlessly plan the perfect getaway.It is responsive for multiple deveices",
-    image: "/tripezz.png",
-    github: "https://github.com/Psanjay-15/ToursPlanner",
-    deployed: "",
+      "Optimized model performance through feature selection and hyperparameter tuning, enhancing prediction accuracy by an additional 8%. Conducted extensive data preprocessing, including cleaning, tokenization, and vectorization, to improve model input quality, contributing to a 12% increase in overall model efficiency.",
+    image: "/movie-genre.png",
+    github: "https://github.com/oshimkhan/Task-1_codsoft_Movie_Genre_Collection.git",
+    deployed: "https://oshimkhan.github.io/Task-1_codsoft_Movie_Genre_Collection/",
   },
   {
-    title: "JobTrail",
+    title: "Nike Shoes Brand",
     description:
-      "JobTrail is a job application tracking website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project aims to streamline the job application process by allowing users to efficiently track their applications for various job positions.It streamlines the job search process by keeping all application information organized.",
-    image: "/jobtrail.png",
-    github: "https://github.com/Psanjay-15/JobTrail",
-    deployed: "https://job-trail-omega.vercel.app/",
+      "Engineered a prototype for an e-commerce website, simulating the browsing and purchasing of 20+ shoe models. Integrated interactive features using JavaScript, improving user navigation efficiency by 40%.",
+    image: "/nike-shoes.png",
+    github: "https://github.com/oshimkhan/Nike_Store.git",
+    deployed: "https://pathanoshim.github.io/Nike-shoe-/",
   },
 ];
