@@ -18,7 +18,7 @@ const Home = () => {
             </p>
 
             <Link
-              to="https://drive.google.com/file/d/18i_E9fVkhUVlBcyVEC_CHfD8CH1Xg3Ac/view?usp=drive_link"
+              to=""
               target="blank"
             >
               <button className="mt-6 bg-white text-gray-900 font-semibold lg:font-extrabold lg:text-xl lg:py-3 py-2 px-4 lg:px-8 rounded-md hover:bg-gray-200 transition-colors">
